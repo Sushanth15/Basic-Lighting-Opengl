@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\sushanth\documents\visual studio 2015\projects\project18\shaderl.h(65): warning C4101: 'infoLog': unreferenced local variable
+c:\users\sushanth\documents\visual studio 2015\projects\project18\shaderl.h(64): warning C4101: 'success': unreferenced local variable
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(241): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sushanth\documents\visual studio 2015\projects\project18\source.cpp(259): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project18.vcxproj -> C:\Users\sushanth\Documents\Visual Studio 2015\Projects\Project18\Debug\Project18.exe
+  Project18.vcxproj -> C:\Users\sushanth\Documents\Visual Studio 2015\Projects\Project18\Debug\Project18.pdb (Partial PDB)
